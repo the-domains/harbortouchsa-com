@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.03476128540933132
-  lightness: 0.3163279274012893
+  saturation: 0.5212766
   brandStrength: 0.506383
+  lightness: 0.5297872
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#878A8F'
     - '#005778'
     - '#9B1410'
-  rhythmicContrast: 0.2489338251762092
+  rhythmicContrast: 0.5191489
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: HarbortouchSA.com
 favicon: null
+name: HarbortouchSA.com
 opengraph:
   image: null
   type: null
