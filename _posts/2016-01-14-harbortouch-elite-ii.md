@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Free POS Harbortouch Elite 2
-datePublished: '2016-01-14T05:08:05.660Z'
-dateModified: '2016-01-14T04:52:22.423Z'
+datePublished: '2016-01-14T05:24:15.951Z'
+dateModified: '2016-01-14T05:24:10.664Z'
 title: Harbortouch Elite II
 author: []
 authors: []
