@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Free POS Harbortouch Echo San Antonio accept credit cards
-datePublished: '2016-01-14T05:08:19.826Z'
-dateModified: '2016-01-14T04:57:17.313Z'
+datePublished: '2016-01-14T05:15:36.831Z'
+dateModified: '2016-01-14T05:15:24.505Z'
 title: Harbortouch Echo
 author: []
+sourcePath: _posts/2016-01-14-harbortouch-echo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-harbortouch-echo.md
-published: true
 url: harbortouch-echo/index.html
-_type: Article
+_type: WebPage
 
 ---
 ### HARBORTOUCH ECHO(tm) POS
