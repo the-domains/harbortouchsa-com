@@ -1,5 +1,8 @@
+name: HarbortouchSA.com
+favicon: null
+layout_spectrum: 0.5212766
+typography_spectrum: 0.8468085
 title: 'The Point of Sale  Systems that will  Revolutionize  Your Business FOR FREE!'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5212766
-  brandStrength: 0.506383
-  lightness: 0.5297872
-  brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#878A8F'
-    - '#005778'
-    - '#9B1410'
-  rhythmicContrast: 0.5191489
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: HarbortouchSA.com
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8468085
-layout_spectrum: 0.5212766
+color:
+  brandColors:
+    - '#000000'
+    - '#afafaf'
+    - '#009dd0'
+    - '#00618e'
+    - '#ffffff'
+  brandStrength: 0.506383
+  lightness: 0.5297872
+  saturation: 0.5212766
+  rhythmicContrast: 0.5191489
+purpose: []
