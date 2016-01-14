@@ -1,7 +1,7 @@
 name: HarbortouchSA.com
 favicon: null
-layout_spectrum: 0.5212766
-typography_spectrum: 0.8468085
+layout_spectrum: 0.65006
+typography_spectrum: 0.63392
 title: 'The Point of Sale  Systems that will  Revolutionize  Your Business FOR FREE!'
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#009dd0'
     - '#00618e'
     - '#ffffff'
-  brandStrength: 0.506383
+  brandStrength: 0.5
   lightness: 0.5297872
-  saturation: 0.5212766
-  rhythmicContrast: 0.5191489
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
