@@ -1,28 +1,27 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Free POS Harbortouch Elite 2
-datePublished: '2016-01-14T05:24:15.951Z'
-dateModified: '2016-01-14T05:24:10.664Z'
-title: Harbortouch Elite II
+description: >-
+  Harbortouch Elite POS combines state-of-the-art software with top-of-the-line
+  hardware to deliver a high quality POS system that is unmatched in both
+  reliability and functionality.
+datePublished: '2018-06-10T06:34:10.029Z'
+dateModified: '2018-06-10T06:34:09.616Z'
+title: HARBORTOUCH HOSPITALITY
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-01-14-harbortouch-elite-ii.md
-published: true
+via: {}
+starred: true
+datePublishedOriginal: '2016-01-14T05:24:15.951Z'
 url: harbortouch-elite-ii/index.html
 _type: Article
 
 ---
-### HARBORTOUCH ELITE(tm) POS
+### HARBORTOUCH HOSPITALITY
 
 Harbortouch Elite POS combines state-of-the-art software with top-of-the-line hardware to deliver a high quality POS system that is unmatched in both reliability and functionality.
 
@@ -40,8 +39,8 @@ Harbortouch Elite POS combines state-of-the-art software with top-of-the-line ha
 * Custom programmed for your business by a Harbortouch representative
 * On-site installation, comprehensive training and 24/7 support
 * Free equipment replacement if hardware breaks or malfunctions
-* HTNET support coming soon
-* 30 day trial \*\*
+* 30 day trial \*
 
 _\*Service Agreement and Merchant Transaction Processing Agreement are required for Free Replacement Offer. Please see Terms and Conditions for complete details. Shipping costs apply._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f58dd932-a6ab-4876-8855-b7b30d4f8445.png)
+
+<button data-role="cta" style="">Request a Demo</button>
