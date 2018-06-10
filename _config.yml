@@ -1,8 +1,37 @@
-name: HarbortouchSA.com
-favicon: null
-layout_spectrum: 0.65006
 typography_spectrum: 0.63392
-title: 'The Point of Sale  Systems that will  Revolutionize  Your Business FOR FREE!'
+color:
+  brandColors:
+    - '#000000'
+    - '#afafaf'
+    - '#009dd0'
+    - '#00618e'
+    - '#ffffff'
+  brandStrength: 0.5
+  lightness: 0.5297872
+  saturation: 0.625
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: harbortouchsa
+layout_spectrum: 0.65006
+analytics:
+  google: null
+  facebook: null
+  twitter: Harbortouch
+name: HarbortouchSA.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Harbortouch Hospitality
+    id: fa4314f4-9bb5-4d50-995a-29afd3ed2f5f
+    type: content
+  - name: Harbortouch Echo
+    id: 8db4de52-3884-4ac1-8af0-0ff97782b429
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +44,15 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#afafaf'
-    - '#009dd0'
-    - '#00618e'
-    - '#ffffff'
-  brandStrength: 0.5
-  lightness: 0.5297872
-  saturation: 0.625
-  rhythmicContrast: 0.5
+title: The Point of Sale  Systems that will  Revolutionize  Your Business FOR FREE!
+content: []
 purpose: []
+github: true
+content_rating:
+  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ead2bdb-c49c-4aae-b803-37432fbd2464.png
+author:
+  name: David  Dikin
+  email: ddikin@harbortouchsa.com
+  url: 'https://www.harbortouchsa.com'
