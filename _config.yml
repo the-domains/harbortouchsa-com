@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: Harbortouch
-name: HarbortouchSA.com
+name: Harbortouchsa.com
 cta:
   domain: null
   bucket: null
@@ -46,7 +46,10 @@ collections:
       number: 10
 title: The Point of Sale  Systems that will  Revolutionize  Your Business FOR FREE!
 content: []
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:info@harbortouchsa.com'
+    label: Contact us
 github: true
 content_rating:
   adult: false
