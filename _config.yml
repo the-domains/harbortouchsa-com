@@ -40,7 +40,7 @@ navigation:
   - name: Harbortouch Echo
     id: 8db4de52-3884-4ac1-8af0-0ff97782b429
     type: content
-  - name: 'POS is great, but for now I just want a counter top unit.'
+  - name: Countertop Units
     id: c43ba335-73d1-4ed6-b5b9-63e7ee8bcb73
     type: content
 favicon: >-
