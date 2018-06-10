@@ -1,6 +1,5 @@
-typography_spectrum: 0.63392
-content_rating:
-  adult: false
+layout_spectrum: 0.4562432795403396
+typography_spectrum: 0.28464948851357
 color:
   brandColors:
     - '#000000'
@@ -8,16 +7,17 @@ color:
     - '#009dd0'
     - '#00618e'
     - '#ffffff'
-  brandStrength: 0.5
-  lightness: 0.5297872
-  saturation: 0.625
-  rhythmicContrast: 0.5
+  brandStrength: 0.7733533844617334
+  lightness: 0.6890540853458098
+  saturation: 0.8884862454314855
+  rhythmicContrast: 0.778816478015523
+content_rating:
+  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: harbortouchsa
-layout_spectrum: 0.65006
 analytics:
   google: null
   facebook: null
@@ -76,7 +76,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
