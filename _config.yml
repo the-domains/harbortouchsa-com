@@ -1,5 +1,6 @@
-layout_spectrum: 0.4562432795403396
 typography_spectrum: 0.28464948851357
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -11,13 +12,12 @@ color:
   lightness: 0.6890540853458098
   saturation: 0.8884862454314855
   rhythmicContrast: 0.778816478015523
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: harbortouchsa
+layout_spectrum: 0.4562432795403396
 analytics:
   google: null
   facebook: null
@@ -43,6 +43,9 @@ navigation:
   - name: Countertop Units
     id: c43ba335-73d1-4ed6-b5b9-63e7ee8bcb73
     type: content
+  - name: Salon & Spa
+    id: f7c05d96-903a-418c-aab2-c16b53fcef1a
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccd5637e-3fff-490f-af8c-2d86ee64f4cc.png
 collections:
@@ -67,19 +70,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/a333f68b-7cdb-4b95-bfa4-2395cdd43ff5.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
