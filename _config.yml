@@ -1,4 +1,6 @@
 typography_spectrum: 0.63392
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -10,6 +12,7 @@ color:
   lightness: 0.5297872
   saturation: 0.625
   rhythmicContrast: 0.5
+github: true
 opengraph:
   image: null
   type: null
@@ -19,6 +22,12 @@ analytics:
   google: null
   facebook: null
   twitter: Harbortouch
+author:
+  name: Harbortouch of San Antonio
+  email: ddikin@harbortouchsa.com
+  url: 'https://www.harbortouchsa.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ead2bdb-c49c-4aae-b803-37432fbd2464.png
 name: Harbortouchsa.com
 cta:
   domain: null
@@ -30,6 +39,9 @@ navigation:
     type: content
   - name: Harbortouch Echo
     id: 8db4de52-3884-4ac1-8af0-0ff97782b429
+    type: content
+  - name: 'POS is great, but for now I just want a counter top unit.'
+    id: c43ba335-73d1-4ed6-b5b9-63e7ee8bcb73
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccd5637e-3fff-490f-af8c-2d86ee64f4cc.png
@@ -47,6 +59,7 @@ collections:
       number: 10
 title: The Point of Sale  Systems that will  Revolutionize  Your Business...
 content: []
+description: ''
 purpose:
   - type: contact
     url: 'mailto:info@harbortouchsa.com'
@@ -54,13 +67,3 @@ purpose:
   - type: contact
     url: 'tel:8007965384'
     label: 'Toll Free: 800-796-5384'
-github: true
-content_rating:
-  adult: false
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ead2bdb-c49c-4aae-b803-37432fbd2464.png
-author:
-  name: Harbortouch of San Antonio
-  email: ddikin@harbortouchsa.com
-  url: 'https://www.harbortouchsa.com'
-description: ''
