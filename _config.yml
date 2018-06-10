@@ -49,7 +49,7 @@ content: []
 purpose:
   - type: contact
     url: 'mailto:info@harbortouchsa.com'
-    label: Contact us
+    label: Email us
 github: true
 content_rating:
   adult: false
