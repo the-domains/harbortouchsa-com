@@ -51,6 +51,9 @@ purpose:
   - type: contact
     url: 'mailto:info@harbortouchsa.com'
     label: Email us
+  - type: contact
+    url: 'tel:8007965384'
+    label: 'Toll Free: 800-796-5384'
 github: true
 content_rating:
   adult: false
